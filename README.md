@@ -1,6 +1,6 @@
 # mvstar-compare
 
-A brief comparison of a few MV* front end frameworks. This will try to address 8 main points, and give a good breakdown of each afterwards.
+A brief comparison of a few MV* front end frameworks.
 
 ## Scope
 
